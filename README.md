@@ -6,8 +6,6 @@ The Taskboard API is an integral part of a task management project. It provides 
 
 - [Features](#features)
 - [Usage](#usage)
-- [API Documentation](#api-documentation)
-- [License](#license)
 
 ## Features
 
@@ -27,11 +25,3 @@ The Taskboard API empowers you to:
 3. **Organize**: Organize tasks in sequences and folders.
 4. **Collaborate**: Share tasks securely with others via unique hashes.
 5. **User Interaction**: Connect and make friends with fellow app users to enhance collaboration.
-
-## API Documentation
-
-For detailed API documentation and usage examples, please refer to the [API Documentation](link_to_api_docs.md) provided with this project.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE.md). You are free to use, modify, and distribute it as per the terms of the license.
