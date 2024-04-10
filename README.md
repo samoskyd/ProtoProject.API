@@ -25,3 +25,5 @@ The Taskboard API empowers you to:
 3. **Organize**: Organize tasks in sequences and folders.
 4. **Collaborate**: Share tasks securely with others via unique hashes.
 5. **User Interaction**: Connect and make friends with fellow app users to enhance collaboration.
+
+Also check [Angular UI](https://github.com/samoskyd/ProtoProject.UI) built for this API!
